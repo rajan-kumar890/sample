@@ -1,0 +1,12 @@
+.rajan{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.rajni {
+    text-align: center;
+    background-image: url(notebook.webp);
+    height: 600px;
+    width: 1020px;
+
+}
